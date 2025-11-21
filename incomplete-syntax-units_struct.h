@@ -1,0 +1,2 @@
+struct person {
+	int age;
