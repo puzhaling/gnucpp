@@ -16,4 +16,7 @@ The following features are demonstrated:
   * Interaction of #include with #undef and related quirks
   * Directives within function-like macro arguments
   * Misnesting behaviour
-(... in progress)
+  * Arguments Prescan
+  * Conditionals
+  * Line Control (#line directive)
+  * Pragmas (which is still esotheric for me)
